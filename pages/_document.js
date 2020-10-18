@@ -10,6 +10,12 @@ class MyDocument extends Document {
 		return (
 			<Html>
 				<Head>
+					<Head>
+						<title>
+							CMS Building Services | Edinburgh based building
+							services
+						</title>
+					</Head>
 					<link
 						href="https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@700&display=swap"
 						rel="stylesheet"
