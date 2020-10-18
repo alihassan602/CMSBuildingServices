@@ -9,6 +9,10 @@ const Services = () => (
 				<li>Handyman</li>
 				<li>Electric</li>
 				<li>Glass</li>
+				<li>Building Restoration</li>
+				<li>Building Alterations</li>
+				<li>Demolition</li>
+				<li>Street Works</li>
 			</ul>
 		</div>
 		<style jsx>{`

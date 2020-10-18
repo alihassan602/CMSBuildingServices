@@ -1,11 +1,13 @@
-import { Footer, Hero, Navigation } from './components'
+import Footer from './components/Footer'
+import Main from './components/Main'
+import Navigation from './components/Navigation'
 
 const Home = () => (
 	<>
 		<div className="container">
 			<div className="animate">
 				<Navigation />
-				<Hero />
+				<Main />
 			</div>
 			<Footer />
 		</div>

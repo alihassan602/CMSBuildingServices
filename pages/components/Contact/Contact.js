@@ -5,8 +5,8 @@ const Contact = () => (
 			<div className="content">
 				<ul>
 					<li>
-						<a href="mailto:cmsbuildingservices@gmail.com">
-							cmsbuildingservices@gmail.com
+						<a href="mailto:info@cmsbuildingservices.co.uk">
+							info@cmsbuildingservices.co.uk
 						</a>
 					</li>
 					<li>

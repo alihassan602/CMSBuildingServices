@@ -13,11 +13,11 @@ const Main = () => (
 					that you can trust!
 				</h2>
 				<p>
-					We provide all aspects of decorating, plumbing, joinery and
+					We provide all aspects of decorating, plumbing, joinery,
 					installation of bathrooms and kitchens. We also do electric
 					work for all homes and sites. We can do all aspects of
-					building and building maintenance. We are a jack of all
-					trades.
+					building and building maintenance. We maintain high 
+					levels of health and safety whilst working.
 				</p>
 			</div>
 			<div className="boxes">
