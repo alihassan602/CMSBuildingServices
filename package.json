@@ -23,14 +23,20 @@
     "semi": false,
     "overrides": [
       {
-        "files": ["*.yml", "*.yaml"],
+        "files": [
+          "*.yml",
+          "*.yaml"
+        ],
         "options": {
           "useTabs": false,
           "tabWidth": 2
         }
       },
       {
-        "files": ["package.json", "server/package.json"],
+        "files": [
+          "package.json",
+          "server/package.json"
+        ],
         "options": {
           "useTabs": false,
           "tabWidth": 2
@@ -38,5 +44,4 @@
       }
     ]
   }
-  
 }
